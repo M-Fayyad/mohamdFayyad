@@ -43,8 +43,8 @@
 <h3 align="left">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mohamdFayyad">
-<img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamdFayyad&theme=github_dark" height="180em" />
-<img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamdFayyad&theme=github_dark" height="180em" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamdFayyad&layout=compact&theme=github_dark" alt=mohamdFayyad />
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdFayyad&theme=dark" alt="mohamdFayyad" />
+<img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamdFayyad&theme=github_dark" height="180em" /><br/>
+<img align="center" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamdFayyad&theme=github_dark" height="180em" /><br/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamdFayyad&layout=compact&theme=github_dark" alt=mohamdFayyad /><br/>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdFayyad&theme=dark" alt="mohamdFayyad" /><br/>
 </div>
