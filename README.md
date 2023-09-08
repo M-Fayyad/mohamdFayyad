@@ -43,7 +43,6 @@
 <h3 align="left">Statistics</h3>
 <div align="center">
 <a href="https://github.com/mohamdFayyad">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamdFayyad&theme=github_dark" height="180em" /><br/>
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamdFayyad&theme=dark" alt="mohamdFayyad" /><br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamdFayyad&theme=github_dark" height="180em" /><br/>
 </div>
